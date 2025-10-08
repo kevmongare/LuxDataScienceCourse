@@ -30,7 +30,7 @@ Each section of the test is solved in its own notebook:
 jupyter notebook
 ## 3. Run the cells to see the solutions and try modifying them to experiment.
 
-##Purpose
+## Purpose
 This repository is designed for beginners learning Python. The notebooks demonstrate basic programming concepts, provide clear examples, and are easy to follow.
 
 Feel free to explore, run the code, and learn!
